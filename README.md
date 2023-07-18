@@ -78,8 +78,10 @@ To enable logging of MKV files to a log file:
 ### Note: Make sure to replace /path/to/directory with the actual path to the directory you want to search.
 
 ## Dependencies
+```
 C compiler (e.g., GCC)
 GNU Make
+```
 Make sure you have the necessary dependencies installed before compiling the code.
 
 ## License
