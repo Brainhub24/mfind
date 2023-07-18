@@ -87,4 +87,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE | Version 3.
 
 ## Contributing
 Contributions are welcome!
+
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
