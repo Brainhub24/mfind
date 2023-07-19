@@ -7,7 +7,7 @@
                                                    
 ```
 
-**mfind** is a command-line utility for searching and listing MKV (Matroska Video) files in a specified directory or drive.
+**mfind** is a command-line utility for searching and listing currently only in MKV (Matroska Video) files in a specified directory or drive.
 It provides a convenient way to quickly find and view information about MKV files, such as path, file type, size, inode, and date/time.
 
 ## Features
@@ -18,8 +18,9 @@ It provides a convenient way to quickly find and view information about MKV file
 
 ## Futured Upgrades:
 - High availability encryption methods
-- zip, gzip bz2 Encryption Methods
-- Text extraction methods
+- gpg, zip, gzip & bz2 Encryption Methods
+- Text filter & extraction methods
+- Media file analysis (EXIF)
 
 ## Usage
 
