@@ -43,7 +43,7 @@ Installation
 To compile and install the mfind utility, follow these steps.
 Clone the repository or download the source code:
 ```
-git clone https://github.com/your-username/mfind.git
+git clone https://github.com/Brainhub24/mfind.git
 ```
 
 Navigate to the mfind directory:
